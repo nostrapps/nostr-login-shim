@@ -48,6 +48,14 @@ To import the `awaitnostr` module from a CDN, add the following line to your HTM
 import awaitNostr from 'https://cdn.skypack.dev/nostr-login-shim'
 ```
 
+or
+
+```html
+    <script
+      type="module"
+      src="https://cdn.skypack.dev/nostr-login-shim"
+    ></script>
+```
 
 ## Usage
 
