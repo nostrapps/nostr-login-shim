@@ -59,6 +59,10 @@ If you need to modify the login process or the appearance of the shim, you can e
 
 For the login process, modify the checkForExtension function as needed. For the appearance, update the shimStyles constant with your desired styles.
 
+## Demo
+
+You can view the demo by clicking [here](https://nostrapps.github.io/nostr-login-shim/test.html).
+
 
 ## License
 
