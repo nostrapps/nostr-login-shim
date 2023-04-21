@@ -1,13 +1,12 @@
 {
   "name": "nostr-login-shim",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nostr-login-shim",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nostrapps/nostr-login-shim.git"
@@ -22,6 +21,5 @@
     "url": "https://github.com/nostrapps/nostr-login-shim/issues"
   },
   "homepage": "https://github.com/nostrapps/nostr-login-shim#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
