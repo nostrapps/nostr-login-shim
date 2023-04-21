@@ -1,6 +1,6 @@
 {
   "name": "nostr-login-shim",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "nostr-login-shim",
   "main": "index.js",
   "type": "module",
