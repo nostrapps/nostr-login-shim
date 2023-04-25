@@ -7,7 +7,7 @@
   shimContainer.innerHTML = `
     <div class="shim-content">
       <h1>Please log in</h1>
-      <button class="button">Login</button>
+      <button id="nostr-login-shim" class="button">Login</button>
     </div>
   `
   document.body.appendChild(shimContainer)
