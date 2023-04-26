@@ -42,10 +42,10 @@ Replace path/to with the actual path to the index.js file in your project folder
 
 ## Import from CDN
 
-To import the `awaitnostr` module from a CDN, add the following line to your HTML file:
+To import the module from a CDN, add the following line to your HTML file:
 
 ```JavaScript
-import awaitNostr from 'https://cdn.skypack.dev/nostr-login-shim'
+import 'https://cdn.skypack.dev/nostr-login-shim'
 ```
 
 or
